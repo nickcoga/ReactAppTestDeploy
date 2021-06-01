@@ -6,6 +6,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npx create-react-app reactapptestdeploy`
+
+      setup package.json homepage and scripts predeploy and deploy
+
+### `yarn add gh-pages --save-dev`
+
+      git remote add origin route repository --> changed master branch to main
+
+### `yarn run deploy`
+
+       published --> web --> environments --> githubs-pages -->view deployment
+
+---
+
 ### `yarn start`
 
 Runs the app in the development mode.\
